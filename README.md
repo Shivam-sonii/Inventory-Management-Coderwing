@@ -28,3 +28,13 @@ The project consists of three primary Java files:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Shivam-sonii/Inventory-Management-Coderwing.git](https://github.com/Shivam-sonii/Inventory-Management-Coderwing.git)
+   # Clone the repositoryt
+
+# Move into the repository folder
+cd inventory
+
+# Build the project
+mvn clean install
+
+# Run the application
+mvn spring-boot:run
