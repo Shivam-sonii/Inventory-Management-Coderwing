@@ -31,7 +31,7 @@ The project consists of three primary Java files:
    # Clone the repositoryt
 
 # Move into the repository folder
-cd inventory
+cd Inventory-Management-Coderwing
 
 # Build the project
 mvn clean install
